@@ -1,1 +1,1 @@
-console.log("Mynk!!")
+const my = mynk;
